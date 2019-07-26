@@ -1,11 +1,13 @@
 ---
 layout: page
+title: Residency
 ---
 
-![Niki Neecke](/assets/img/niki_neecke-crop.jpg)
+![Martin Hackett](/assets/img/martin.jpg)
 
 # Residencies
 
+{:.highlight-green}
 The Indian Sonic Research Organisation offers residencies to artists, musicians, theorists, instrument builders who wish to push the boundaries of their practice.
 
 ## Funding
@@ -18,6 +20,14 @@ It is advisable to apply atleast __*6 months*__ before you wish to start your re
 Guest houses will be provided to chosen artists.
 
 # Former Residents
+
+Cathy Lane(UK)
+
+Viv Corringham(UK/US)
+
+Daniel J. Miller(US)
+
+Otso Sorvetulla(FI)
 
 Felix Duefel(DE)
 

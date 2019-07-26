@@ -4,7 +4,8 @@
 @import 'bootstrap/bootstrap';
 
 .top-header {
-    background-color: black;
+    //background-color: black;
+    height: 60px;
 }
 
 ol,ul {
@@ -28,4 +29,148 @@ p {
 
 .when,.where {
     color: red;
+}
+
+li.nav-item {
+    display: flex;
+    border: 1px solid grey;
+    border-right: none;
+    a {
+        font-size: 14px;
+        font-weight: bolder;
+        justify-content: center;
+        padding: 5px 10px;
+        text-transform: uppercase;
+        &:hover {
+            color: black;
+            background: white;
+            text-decoration: none;
+        }
+    }
+}
+
+li.nav-item:last-child {
+    border-right: 1px solid grey;
+}
+
+ul.top-nav {
+    li {
+        a {
+            justify-content: center;
+            padding: 5px 10px;
+            text-transform: uppercase;
+        }
+        display: inline;
+        border: 1px solid grey;
+    }
+}
+
+.hero {
+    line-height: 666px;
+    text-align: center;
+    height: 666px;
+}
+
+.hero-action {
+    margin: auto;
+    width: 30%;
+    display: inline-block;
+    vertical-align: middle;
+    line-height: normal;
+}
+
+.btn-isro {
+    @include button-variant(#000, #000);
+    text-transform: uppercase;
+    font-size: 14px;
+    font-weight: bolder;
+    &:hover {
+        background-color: #fff;
+        color: #000;
+        border-color: #fff;
+    }
+}
+
+/*
+p:nth-of-type(2) {
+    background-color: green;
+    padding: 10px 10px 30px 30px;
+}
+*/
+
+.navbar-brand h1 {
+    font-weight: 900;
+}
+
+.hero-action span {
+    font-size: 64px;
+    color: white;
+    font-weight: 900;
+}
+
+span.top-left {
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+span.top-right {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+
+span.bottom-right {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+span.bottom-left {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+
+.highlight-green {
+    background-color: green;
+    padding: 10px 10px 30px 30px;
+}
+
+.post-heading {
+    font-size: 42px;
+    font-weight: 900;
+    margin-top: 50px;
+    margin-bottom: 30px;
+}
+
+.post-box {
+    color: black;
+    background-color: white;
+}
+
+.post-text {
+    margin-top: 90px;
+    a {
+        color: black;
+    }
+}
+
+.post-image {
+    padding-left: 0px;
+    margin-left: 0px;
+}
+
+.post-title {
+    color: green;
+    font-weight: 900;
+}
+
+footer {
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+
+.post-image-row {
+    padding-bottom: 50px;
 }

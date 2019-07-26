@@ -2,6 +2,8 @@
 layout: page
 ---
 
+Images: http://wisp-kollektiv.de/bangaloresidency-2017
+
 ![3D Sound Workshop poster](/assets/img/poster3dsoundworkshop.jpg)
 
 # Composing and performing with 3D sound
@@ -106,7 +108,7 @@ Felix
 - __*Srishti Institute of Art, Design and Technology*__
 - __*Goethe-Institut-Bangalore, Bangalore Residency Program*__
 - __*(Art)ScienceBLR*__
-- __*The Indian Sonic Research Organization*__
+- __*The Indian Sonic Research Organisation*__
 - __*Wisp Kollektiv*__
 - __*Special thanks to Michael Romanov for Ambisonic Decoder support*__
 

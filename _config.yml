@@ -1,17 +1,17 @@
-title: The Indian Sonic Research Organization
+title: The Indian Sonic Research Organisation
 description: A sound research and experimental space
 author: theisro
 url: http://theisro.github.io/
 excerpt_separator: <!--more-->
-#baseurl: /beta
-paginate: 10
+paginate: 3
 paginate_path: /page/:num/
 
 exclude: [
     'Makefile',
     'Gemfile',
     'Gemfile.lock',
-    'README.md'
+    'README.md',
+    'CNAME'
 ]
 
 sass:

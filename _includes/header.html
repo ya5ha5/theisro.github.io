@@ -1,21 +1,18 @@
-<header class="container-fluid top-header">
-    <div class="row">
-        <div class="col-md-12">
-            <a href="{{ site.baseurl }}/">
-            {% if page.banner_img %}
-            <img src="{{ site.baseurl }}{{ page.banner_img }}">
-            {% else %}
-            <img src="{{ site.baseurl }}/assets/img/isro_about_thecave.jpg">
-            {% endif %}
-            </a>
-        </div>
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <a class="navbar-brand" href="/"><h1>The ISRO</h1></a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+            <li class="nav-item"><a href="/about.html">About</a></li>
+            <li class="nav-item"><a href="/artists.html">Artists</a></li>
+            <li class="nav-item"><a href="/residency.html">Residency</a></li>
+            <li class="nav-item"><a href="/workshop.html">Workshops</a></li>
+            <li class="nav-item"><a href="/archives.html">Archives</a></li>
+            <li class="nav-item"><a href="/cave.html">Cave</a></li>
+        </ul>
     </div>
-</header>
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-md-12">
-        <h1>The Indian Sonic Research Organization</h1>
-        </div>
-    </div>
-</div>
+</nav>
 

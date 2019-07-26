@@ -1,22 +1,27 @@
 ---
 layout: page
+title: Artists
 ---
 
-![Noamori](/assets/img/noamori-crop.jpg)
+![Ron](/assets/img/ron.jpg)
+
+To apply for a residency please [click here](/residency.html).
 
 # Current Artist in Residence
-__January - March 2018__
+__July 2019__
 
+Shun Owada(JP)
 
-[Cathy Lane](/cathylane.html)
-
-[Viv Corringham](/vivcorringham.html)
-
-[Daniel J. Miller](/danieljmiller.html)
-
-[Otso Sorvetulla](/otsosorvetulla.html)
 
 # Former Artists in Residence
+
+[Cathy Lane(UK)](/cathylane.html)
+
+[Viv Corringham(UK/US)](/vivcorringham.html)
+
+[Daniel J. Miller(US)](/danieljmiller.html)
+
+[Otso Sorvetulla(FI)](/otsosorvetulla.html)
 
 Felix Duefel(DE)
 

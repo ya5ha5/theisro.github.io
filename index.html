@@ -3,18 +3,55 @@ layout: default
 ---
 
 <section class="container-fluid">
-  <div class="row">
-    <div class="col-md-4">
-        &nbsp;
+    <div class="row">
+        <div class="col-md-12 hero" style="background: url('/assets/img/yati-durant-conducting.png') no-repeat; height: 666px;">
+            <div class="hero-action">
+                <a class="btn btn-isro" href="/workshop.html">Workshops</a>
+                <a class="btn btn-isro" href="/about.html">About</a>
+                <span class="top-left">Indian</span>
+                <span class="top-right">Sonic</span>
+                <span class="bottom-right">Research</span>
+                <span class="bottom-left">Organisation</span>
+            </div>
+        </div>
     </div>
-    <div class="col-md-4">
-        <ol>
-            <li><a href="about.html">About</a></li>
-            <li><a href="artists.html">Artists</a></li>
-            <li><a href="residency.html">Residency</a></li>
-            <li><a href="education.html">Education</a></li>
-            <li><a href="archives.html">Archives</a></li>
-        </ol>
+    <div class="container">
+    {% for post in paginator.posts %}
+    <div class="row">
+        <div class="post-heading col-md-12 text-center">
+            <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        </div>
     </div>
-  </div>
+    <div class="row">
+        <div class="col-md-12">
+            <div class="container-fluid">
+                <div class="row post-box">
+                    <div class="col-md-7 post-image">
+                        <img class="mw-100" src="{{ site.baseurl }}{{ post.image }}" width=640>
+                    </div>
+                    <div class="col-md-5 post-text">
+                        <h3 class="post-title">
+                            {{ post.title }}
+                        </h3>
+                        <p>{{ post.excerpt }}</p>
+                        <p><a href="{{ site.baseurl }}{{ post.url }}">read more</a></p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    {% endfor %}
+    </div>
+    <div class="row text-center">
+        <div class="col-md-12">
+            {% if paginator.previous_page %}
+            <a href="{{ paginator.previous_page_path }}">&lt;</a>
+            {% endif %}
+            {{ paginator.page }}
+            {% if paginator.next_page %}
+            <a href="{{ paginator.next_page_path }}">&gt;</a>
+            {% endif %}
+        </div>
+    </div>
+</div>
 </section>

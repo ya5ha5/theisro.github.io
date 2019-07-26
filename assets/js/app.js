@@ -1,20 +1,5 @@
-window.onscroll = function() {scrollFunction()};
+var br = document.getElementsByClassName("bottom-right")[0];
+var bl = document.getElementsByClassName("bottom-left")[0];
 
-var header = document.getElementById("sticky-nav");
-var section = document.getElementsByTagName("section")[0];
-var brand = document.getElementById("brand");
-
-var sticky = header.offsetTop;
-
-
-function scrollFunction(){
-    if (window.pageYOffset > sticky) {
-        header.classList.add("fixed-top");
-        section.classList.add("pad-top");
-        brand.classList.remove("d-none")
-    } else {
-        header.classList.remove("fixed-top");
-        section.classList.remove("pad-top");
-        brand.classList.add("d-none")
-    }
-}
+br.style.top = (window.innerHeight - 150) + "px";
+bl.style.top = (window.innerHeight - 150) + "px";
