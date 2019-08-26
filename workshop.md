@@ -12,11 +12,20 @@ The ISRO values the sharing and dissemination of ideas through an open source mo
 
 # Upcoming Workshop
 
-Yati Durant - July 30th - August 3rd
+Computational Approaches to Sound - August 26th - September 6th, 2019
 
-Yati will be working with the [Indian Sonic Research Organisation](https://www.theisro.org/) and students of [ArtScienceBLR](https://artscienceblr.org) in Bangalore, India from 29th July - 2nd August 2019. The project will involved using collaborative concepts from the [Saundaryalahari Project](http://www.saundaryalahari.eca.ed.ac.uk) to develop art and music works that involve technology and creativity and consider ways in which they can be performed and/or installed in India. The Saundaryalahari project uses “proto-linguistic” practices to work in creative fields together. It will be exciting to see this project develop and outcomes will be posted on this website and otherwise! [Read more]({% post_url 2019-07-15-yati-durant-workshop-performances %})
+This 2 week workshop will introduce participants to elements of composing and programming with CSOUND. CSOUND is a powerful and versatile software synthesis program. Drawing from a toolkit of over 450 signal processing modules, one can use CSound to model virtually any commercial synthesizer or multi-effect processor. CSound transforms a personal computer into a high end digital audio workstation- an environment in which the world of composition, acoustic research and sound-design all join together in the ultimate expressive instrument. The 2 week workshop will cover various compositional techniques with CSound. No previous knowledge of programming or music composition is necessary.
 
 # Archive of past Workshops 
+
+{:.title}
+[Yati Durant - July 30th - August 3rd]({% post_url 2019-07-15-yati-durant-workshop-performances %})
+
+{:.when}
+30th July - 3rd August 2019
+
+{:.where}
+(Art)ScienceBLR
 
 {:.title}
 [Composing and performing with 3D sound](/3dsoundworkshop.html)
