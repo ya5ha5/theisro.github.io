@@ -8,12 +8,14 @@ title: Artists
 To apply for a residency please [click here](/residency.html).
 
 # Current Artist in Residence
-__July 2019__
+__November - December 2019__
 
-Shun Owada(JP)
+Strwueue
 
 
 # Former Artists in Residence
+
+Shun Owada(JP)
 
 [Cathy Lane(UK)](/cathylane.html)
 
