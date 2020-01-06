@@ -25,7 +25,7 @@ Shun Owada(JP)
 
 [Otso Sorvetulla(FI)](/otsosorvetulla.html)
 
-Felix Duefel(DE)
+[Felix Duefel(DE)](/felixdeufel.html)
 
 Martin Hackett(UK)
 
