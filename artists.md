@@ -10,7 +10,7 @@ To apply for a residency please [click here](/residency.html).
 # Current Artist in Residence
 __November - December 2019__
 
-Strwueue
+STRWUU
 
 
 # Former Artists in Residence
