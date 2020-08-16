@@ -4,7 +4,7 @@ title: YASHAS
 ---
 # YASHAS SHETTY
 
-![Tanisha](/assets/img/tanisha.jpg)
+![Tanisha](/assets/img/YashaspicbyBostjan_Leskovsek.JPG)
 
 [click here.](/workshop.html) [click here.](/workshop.html) [click here.](/workshop.html) [click here.](/workshop.html)
 
