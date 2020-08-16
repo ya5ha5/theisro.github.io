@@ -2,12 +2,11 @@
 layout: page
 title: YASHAS
 ---
-
-![Tanisha](/assets/img/tanisha.jpg)
-
 # YASHAS SHETTY
 
 ![Tanisha](/assets/img/tanisha.jpg)
+
+[click here.](/workshop.html) [click here.](/workshop.html) [click here.](/workshop.html) [click here.](/workshop.html)
 
 {:.highlight-green}
 The Indian Sonic Research Organisation is a collective of instrument builders and artists dedicated to the proliferation of experimental music and sound art. We run a community music lab in Bangalore where we make, perform, teach and collaborate through workshops, performances and artist residencies. Our independent record label disseminates works by Asian composers, sound artists and musicians from India and abroad.
