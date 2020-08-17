@@ -22,7 +22,7 @@ Our YOUTUBE channel has videos of performances, instruments and workshops:
 In addition to workshops in our studio, we also organise a series of ‘FIELD TRIPS’--expeditions to wild and remote places with an intent to listen and to gather sounds. More about FIELD TRIPS here
 
 
-THE ISRO STUDIO
+#THE ISRO STUDIO
 
 <image of the studio>
 
