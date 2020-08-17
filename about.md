@@ -22,7 +22,7 @@ Our YOUTUBE channel has videos of performances, instruments and workshops:
 In addition to workshops in our studio, we also organise a series of ‘FIELD TRIPS’--expeditions to wild and remote places with an intent to listen and to gather sounds. More about FIELD TRIPS here
 
 
-#THE ISRO STUDIO
+**THE ISRO STUDIO**
 
 <image of the studio>
 
@@ -38,7 +38,7 @@ The studio is also a live venue for performances by some of the most refreshing 
 <image of performances at the studio>
 
 
-RESIDENCY PROGRAM
+**RESIDENCY PROGRAM**
 
 For help with applying to the residency click here:
 
@@ -55,7 +55,7 @@ Our summer internships for students usually fill up by the last week of March �
 
 
 
-WORKSHOPS
+**WORKSHOPS**
 
 
 <Image of workshop>
@@ -78,22 +78,7 @@ composing with 3D sounds.
 For a complete list of workshops visit this page.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-The STUDIO – The Center for Audio, Video Experiments
+**The STUDIO – The Center for Audio, Video Experiments**
 
 
 [INSERT – some kind of sexy image –panned or landscape of people working with fancy equipment at our studio] see this image for reference
@@ -109,7 +94,7 @@ The studio is home to a variety of state of the art recording equipment and musi
 In addition to recording, artists also have access to a variety of traditional synthesizers as well as new, quirky electronic instruments and interfaces built by Wolfgang Spahn, Yashas Shetty. and Ron Schneider. Besides audio equipment, the C.A.V.E also provides access to video synthesizers designed by Otso Sorvetulla and Shreyasi Kar.
 
 
-PROTOTYPING STUDIO
+**PROTOTYPING STUDIO**
 
 
 A majority of the artists working at the studio are also instrument builders. To expedite rapid prototyping of ideas into musical instruments, The ISRO is home to a fabricating studio with 3D printers, CNC machines, LASER cutter as well as a well stocked electronics laboratory. This is in addition to various lathes and wood-working equipment.
@@ -117,7 +102,7 @@ A majority of the artists working at the studio are also instrument builders. To
 [INSERT – a sexy image of a prototyping machine – maybe a shot of the laser cutter or 3D printers or even the lathe downstairs]
 
 
-PERFORMANCES
+**PERFORMANCES**
 
 The studio is also host to live and improvised performances by some of the most refreshing musicians and sound artists. You can view their recorded performances here:[/cave.html]
 
